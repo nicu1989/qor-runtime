@@ -1,0 +1,7 @@
+{
+  "cargo-doc-PR1": [
+    "qor_core",
+    "qor_os",
+    "qor_rto"
+  ]
+}
