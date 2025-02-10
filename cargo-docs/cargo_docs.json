@@ -8,5 +8,10 @@
     "qor_core",
     "qor_os",
     "qor_rto"
+  ],
+  "cargo-doc-PR2": [
+    "qor_core",
+    "qor_os",
+    "qor_rto"
   ]
 }
